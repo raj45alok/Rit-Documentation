@@ -650,12 +650,23 @@ Evidence basis: a Chinese study on elite youth athletes across six sports found 
 
 Rationale:
 - **Athletics, Badminton, Boxing** — align with India's demonstrated Olympic/Commonwealth medal strengths and skill profile (higher endurance, strength, durability; agility as a proven strength in badminton), and with the sports where SAI/Khelo India coaching and infrastructure density is already strongest — meaning a talent-ID pipeline has somewhere real to route a child (directly supports Problem Statement 5, continuity).
-- **Swimming** — India's largest medal white-space among major Olympic categories (no Olympic swimming medal to date); fits FUNdamentals-stage science well (low-impact, builds coordination/cardiovascular base, avoids early specialization). **Caveat:** pool access is far scarcer and more unevenly distributed than grounds/courts, so swimming rollout will likely need to be sequenced city-by-city around partner-pool availability rather than launched uniformly alongside the other three sports.
+- **Swimming** — India's largest medal white-space among major Olympic categories (no Olympic swimming medal to date); fits FUNdamentals-stage science well (low-impact, builds coordination/cardiovascular base, avoids early specialization). **Caveat:** pool access is far scarcer and more unevenly distributed than grounds/courts — see the correction below, which found this caveat understated the real constraint.
 
-**Swimming-specific SOP refinement (decided 30 Aug 2026):** pond/lake access is an acceptable substitute for pool access at the grassroots level — this is consistent with how much of India's existing swimming talent has historically developed, and removes facility availability as a hard blocker. Two precision requirements follow from this:
+### Swimming-specific SOP — CORRECTED (10 Sept 2026, supersedes the 30 Aug 2026 decision below)
+
+**The original decision that pond/lake access is an acceptable substitute for pool access has been reversed following district-specific feasibility research** (see `research/13_swimming_feasibility_haryana.md`). Verified finding: **only Sonepat has a confirmed, structured swimming facility in the entire target belt** (SAI Northern Regional Centre, 2 pools). Bhiwani, Hisar, Karnal, and Panipat have no verified public pool. Natural water bodies (ponds/lakes/canals) were explicitly found **not suitable** for organized youth swimming training, talent-ID, or assessment, due to safety, hygiene, and standardization concerns — this is a harder line than "less precise," it is a genuine safety disqualification.
+
+**Corrected decision:** Swimming in the Haryana MVP is **partner/facility-dependent, anchored specifically at Sonepat/SAI** — not a district-agnostic fourth sport delivered the same way as Athletics, Badminton, and Boxing across the whole belt. Minimum non-negotiable requirements for any swimming site: verified pool with safety equipment, certified lifeguards, qualified swimming coaches, parental consent/supervision protocols, and an emergency response plan. None of these can be satisfied by an open-water site — the open-water safety module described below is retained for general safety training purposes, but is **not** a basis for running swimming programming in open water itself.
+
+<details>
+<summary>Original (superseded) decision — retained for audit trail</summary>
+
+**Swimming-specific SOP refinement (decided 30 Aug 2026, superseded 10 Sept 2026):** pond/lake access is an acceptable substitute for pool access at the grassroots level — this is consistent with how much of India's existing swimming talent has historically developed, and removes facility availability as a hard blocker. Two precision requirements follow from this:
 
 1. **Tiered measurement standard.** Tier 1–2 (FUNdamentals/Learn-to-Train, ages 6–12) assessment in ponds/lakes should be qualitative — water comfort, stroke technique, coordination — since open water lacks fixed markers and consistent conditions (current, depth) for reliable timed comparison across children or locations. Tier 3 (Train-to-Train, 12–16), where cross-child comparison and real specialization begin to matter, should move to standardized pool access (25m/50m lane) wherever feasible, since precise, comparable timing data becomes necessary at that stage.
-2. **Open-water safety module.** The coach-credentialing module (Phase 1) must include an open-water-specific safety/safeguarding track — distinct from pool-based coaching credentials — covering supervision ratios, rescue certification, and site-specific risk assessment. This follows directly from the coaching research, which repeatedly flagged safeguarding as a top due-diligence area parents should be able to verify, and open water carries materially higher risk (no lifeguard infrastructure, unpredictable conditions) than a supervised pool.
+2. **Open-water safety module.** The coach-credentialing module (Phase 1) must include an open-water-specific safety/safeguarding track — distinct from pool-based coaching credentials — covering supervision ratios, rescue certification, and site-specific risk assessment.
+
+</details>
 
 ### Tier 1/2 Test Battery Methodology — decided (30 Aug 2026)
 
@@ -673,11 +684,42 @@ Final sport shortlist confirmed: **Athletics, Badminton, Boxing, Swimming.** Har
 - **Athletics** — the **OSF test**: 3×10m shuttle run (speed/agility), standing broad jump (power), 1kg medicine ball overhead throw (strength), 4-min run (endurance). Validated, equipment-light (tape measure, stopwatch, medicine ball), with published age/sex normative percentile charts, and specifically designed to orient children toward event groups (sprints/jumps/throws/distance).
 - **Badminton** — footwork/agility drills (four- or six-point footwork patterns using floor markers/cones), a badminton-specific agility T-test, and basic reaction-time drills. Validated and equipment-light; research specifically supports identifying tall, agile, high-endurance children via generic physical tests before sport-specific skill exposure.
 - **Boxing** — **hardware tension.** The sport-specific literature (punch force, velocity, reaction time) is built almost entirely on instrumented gloves/bags, force plates, or IMU suits, which conflicts with the no-hardware constraint. **Resolution:** substitute the same generic power/agility/reaction items used elsewhere — medicine ball throw (upper-body power), standing broad jump (lower-body power), shuttle run (agility), simple reaction-ball catch drill (hand-eye reaction) — deferring true instrumented punch telemetry to a later, hardware-enabled phase.
-- **Swimming** — **partial hardware tension.** Full swim-specific TID (in-water force sensors, camera-based stroke biomechanics) needs equipment Rit doesn't have yet. **Resolution:** two hardware-free pieces carry real evidence weight — anthropometry (height, arm span, sitting height via tape measure; arm-span-to-height ratio is a documented predictor) and dryland power tests (vertical jump, standing broad jump). Stroke technique is assessed qualitatively by the coach (manual stroke count over a marked distance, technique observation) — consistent with the pond/lake qualitative approach already defined for Tiers 1–2.
+- **Swimming** — **partial hardware tension.** Full swim-specific TID (in-water force sensors, camera-based stroke biomechanics) needs equipment Rit doesn't have yet. **Resolution:** two hardware-free pieces carry real evidence weight — anthropometry (height, arm span, sitting height via tape measure; arm-span-to-height ratio is a documented predictor) and dryland power tests (vertical jump, standing broad jump). Stroke technique is assessed qualitatively by the coach (manual stroke count over a marked distance, technique observation). **Correction (10 Sept 2026):** this must occur at a verified pool facility (Sonepat/SAI in the current pilot geography) — see the swimming feasibility correction above; open water is no longer treated as an acceptable delivery site.
+
+### Train-to-Train Stage Methodology (Ages 12–16, Tier 3) — decided (30 Aug 2026)
+
+- **Training:Competition ratio of 60:40** at this stage — still skill/process-development-focused, not outcome/winning-focused, even as training intensity and specialization increase.
+- **Maturation-informed progression, not purely chronological age.** LTAD literature ties this stage's onset to growth-spurt timing (Peak Height Velocity), not a fixed birthday. Since Rit has no lab equipment for formal maturation offset calculation, the practical proxy is simple longitudinal height tracking already captured by the coach app (Tier 1/2 data) — a child's progression into Tier 3 content should be informed by their own growth trajectory, not age 12 alone.
+- **Swimming is a confirmed exception to "generalize first, specialize later."** LTAD literature explicitly flags swimming (alongside gymnastics) as needing early sport-specific technical training (ages 6–9), unlike boxing/athletics/badminton which should stay generalized until 12–15. This validates the plan's existing decision to begin swimming exposure at the FUNdamentals stage rather than waiting for Tier 2/3.
+- **Introduce structured periodization concepts** appropriate to a coach-led (not lab-based) context: a simple training diary/log per athlete, rest-and-recovery guidance, and awareness of growth-spurt-related injury risk — without requiring sport-science staff or equipment Rit doesn't have at this stage.
 
 ### FUNdamentals Stage Philosophy (Ages 6–9) — decided (30 Aug 2026)
 
 The 6–9 age band (Tier 1) is explicitly about instilling **fitness and healthy-life habits**, not sport-specific selection — consistent with the LTAD FUNdamentals principle already established (Section 6.1: fun over structure, multi-sport exposure, no child excluded from anything at this stage). **Athletics is designated the first building-block sport** — its generic movement vocabulary (running, jumping, throwing) underpins the physical foundation the other three sports build on, making it the natural entry point before broader sport exposure begins at Tier 2. Beyond physical development, sport participation is valued as a vehicle for building resilience — teaching children to compete, lose, recover, and persist — a developmental outcome alongside physical fitness and talent orientation.
+
+### Haryana-Specific Local Evidence & Primary Research Decision (30 Aug 2026)
+
+A Perplexity discovery pass specifically checked for existing qualitative/survey research on parents, coaches, and PE teachers in the Haryana belt regarding coaching quality and talent-ID. **No study directly addresses this question for athletics/badminton/boxing/swimming specifically** — confirmed evidence gap. However, several district-level proxy studies provide strong local, directional support:
+
+- **Bhiwani/Hisar/Jind coaching-service perception study (2015, n=180):** trainees overwhelmingly rate coaches as *skilled* (90-93% agree across all three districts) but rate coaches poorly on **systematic tracking of training schedules** (42-58% agree) and **technique/performance feedback** (33-47% agree) — including in Bhiwani, Rit's chosen boxing hub. **This directly validates the chosen wedge:** the gap is not raw coaching skill, it is tracking/feedback infrastructure — precisely what Rit's talent-ID and progression-tracking layer is designed to add on top of already-skilled coaches, not a claim that coaches themselves are undertrained.
+- **SPAT parent survey (Rohtak, 2013, n=50):** 60% dissatisfied with selection-procedure fairness; 82% felt training centres lacked adequate facilities — supports Problem Statement 7 (no credible way to verify quality/fairness before committing).
+- **Scale context:** Khelo India has already trained 82,000+ PE teachers nationally to conduct basic fitness assessment via its mobile app. This refines (not contradicts) the Coach Credential Model: many coaches already hold baseline assessment training, so Rit's value-add is the standardized orientation battery (PERF-FIT/KTK3+/OSF), tracking/feedback layer, safeguarding, and LTAD-informed pedagogy layered on top — not assessment training from zero.
+
+**Decision: proceed without commissioning dedicated primary research (interviews) at this stage.** The above district-level evidence, combined with the extensive secondary research already completed, is treated as sufficient directional validation for MVP-stage product decisions. This is a deliberate acceptance of residual validation risk, not an oversight — revisit if early pilot feedback contradicts these findings.
+
+### Relationship to KIRTI — decided (30 Aug 2026)
+
+**Khelo India Rising Talent Identification (KIRTI)** is a national, government-run, AI-assisted talent-ID program (launched March 2024) that was not fully accounted for in the original competitor scan. It targets ages 9–18 across 11 disciplines including Athletics, Badminton, and Boxing (3 of Rit's 4 launch sports), operates via periodic Talent Assessment Centre drives (~120 athletes/day, district-as-unit-of-assessment, aiming for 20 lakh assessments/year), and already has strong traction in Haryana specifically (second-highest state by assessment volume in Phase 1). Team Rit's stated priority is national impact over competitive positioning — the decision below reflects that priority directly.
+
+**Decision: Rit is positioned as the pre- and continuous layer around KIRTI, not a competing scouting system.** Three concrete, non-overlapping roles:
+
+1. **The age gap KIRTI doesn't cover.** KIRTI starts at age 9; Rit's FUNdamentals stage (6–9) builds the fitness/coordination/healthy-habit foundation before a child ever reaches a KIRTI assessment — a child arrives with years of longitudinal data rather than walking in cold for a single-day scouting event.
+2. **The continuity gap between assessment cycles.** KIRTI is a periodic scouting drive; it cannot coach, track, or retain a child week to week. Rit's everyday, coach-mediated development layer (Problem Statement 5) fills exactly this gap.
+3. **Coach/PE-teacher training supply.** KIRTI's own Talent Assessment Centres depend on trained sports-specific coaches and PE teachers to run assessments. Rit's coach-credentialing module (already NCAB-aligned) is a direct, concrete potential training pipeline for the personnel KIRTI itself needs — not just a philosophically adjacent system.
+
+**Sport-specific note:** Swimming is not among KIRTI's 11 disciplines — it remains genuinely uncontested ground among Rit's four launch sports, with no government program currently active there.
+
+**Long-term aspiration (not a near-term commitment):** a Rit-tracked child's longitudinal profile could eventually feed into KIRTI's NSRS/NSTS data ecosystem, extending the same "complementary infrastructure, not rival authority" logic already applied to NCAB.
 
 ### Coach Credential Model — decided (30 Aug 2026)
 
@@ -685,22 +727,44 @@ The 6–9 age band (Tier 1) is explicitly about instilling **fitness and healthy
 
 **Decision:** Rit's coach module will be built as **NCAB-compatible infrastructure**, not a rival credentialing body — mapping directly onto NCAB's proposed tiers (Grassroots → Intermediate → Elite → National) and building a coach's assessment/training portfolio in a form that is ready to plug into NCAB once it rolls out nationally. This positions Rit as complementary to the incoming government system rather than exposed to future displacement by it, while still allowing Rit to build and operate ahead of NCAB's full national launch.
 
-### Grassroots Coach Curriculum Structure — decided (30 Aug 2026)
+### Grassroots Coach Curriculum Structure — working hypothesis, amended (30 Aug 2026)
 
 Adopted from a cross-check of international entry-level coach-education frameworks (ISCF/ICCE-ASOIF, UK Coaching, England Athletics, England Squash, World Rugby, BWF), converging on a consistent stacked model. **Full drill-level curriculum content is a separate training-content deliverable, not reproduced in this strategic document — this section records the adopted structure only.**
 
+**Important caveat added after internal review (30 Aug 2026):** the international frameworks below are *design guidance from other countries*, not validated evidence of what India's coaching system currently lacks or what specific parameters (hours, session counts, renewal periods) fit the Indian/Haryana context. India's Dec 2025 task force confirms the *system-level* gap (fragmented, no unified accreditation) — it does not validate the *specific numbers* below. These remain working hypotheses pending the dedicated research question defined below, not locked requirements.
+
 - **Safeguarding is a mandatory prerequisite**, not optional add-on content — no coach is certified without it, consistent with every mature system reviewed.
-- **Format:** 20–40 blended learning hours — self-paced online modules (safeguarding, child development, sport-specific rules) + tutor-led workshop (session planning, communication, ethics, scenarios) + supervised field practice (2–4 observed live sessions) + portfolio (session plans, risk assessments, reflections).
+- **Format (hypothesis, not yet India-validated):** 20–40 blended learning hours — self-paced online modules (safeguarding, child development, sport-specific rules) + tutor-led workshop (session planning, communication, ethics, scenarios) + supervised field practice (2–4 observed live sessions) + portfolio (session plans, risk assessments, reflections).
 - **Assessment: competency-based, not attendance-based** — a "competent / not-yet-competent" decision via practical observation, with a defined remediation/reassessment path, not automatic certification for showing up.
-- **Registry:** a publicly/organizationally verifiable coach ID recording qualification level, sport, expiry date, and safeguarding status — this is a direct, buildable software feature for Rit's coach module.
+- **Registry:** a publicly/organizationally verifiable coach ID recording qualification level, sport, expiry date, and safeguarding status — this is a direct, buildable software feature for Rit's coach module, and is largely independent of exactly how the curriculum ends up being scoped.
 - **Progression pathway:** Assistant → Grassroots coach → Development coach → Advanced/Performance coach, mapping onto NCAB's proposed tiers.
-- **Renewable license** (2–3 year validity), tied to safeguarding recertification and CPD credits — one-time certification is treated as inadequate in every mature system reviewed.
+- **Renewable license (hypothesis):** 2–3 year validity, tied to safeguarding recertification and CPD credits — one-time certification is treated as inadequate in every mature system reviewed, though the exact renewal period is unvalidated for India.
 
 **India-specific curriculum additions (beyond generic imported frameworks):** heat/humidity/air-pollution/monsoon risk management; low-equipment and small-space session design; gender-sensitive coaching and girls' safe participation; child-safety and digital-communication (WhatsApp-era) boundaries; inclusion across disability, language, caste/community, income, and rural/urban access; parent communication around academic-pressure trade-offs, fees, and realistic sport-career expectations; prevention of early specialization, overtraining, and unsafe weight-control/supplement practices; referral procedures for suspected injury, anaemia/fatigue, undernutrition, and mental-health or safeguarding concerns; and — critically — **explicit, trained separation between fitness screening and talent selection, with safeguards against premature exclusion.** This last point directly reinforces the Tier 1 "orientation, not selection; no child excluded" principle already established in the Talent-Identification Framework above.
+
+### Direction A vs. Direction B — RESOLVED by evidence (10 Sept 2026, supersedes the 30 Aug 2026 "pursue both" decision)
+
+Internal review flagged an important fork that the curriculum research above conflates. **Direction A** (coach certification/professional development — Rit teaches, assesses, and credentials coaches from scratch) and **Direction B** (coach verification/trust infrastructure — Rit aggregates and displays a coach's *existing* qualifications, safeguarding status, and experience so a parent/school can answer "can I trust this coach?") are different products with different risk profiles.
+
+**The dedicated research question below has now returned a direct, evidence-based answer**, not just a risk-preference judgment: *"Rit should verify existing credentials and provide coaching-quality infrastructure, rather than duplicating training."* (See `research/15_coach_credentialing_gap_india.md`.) This is reinforced by a major new finding: the Dec 2025 task force's actual proposed training scale is **1,400 practical hours + 400 theory hours** — dramatically larger than the 20-40 hour international-framework hypothesis previously logged here, making Direction A even more clearly the wrong path to attempt.
+
+**Revised decision:** Direction B (verification/registry) plus the coaching-quality/tracking infrastructure (assessment, feedback, longitudinal tracking) are the build. This is *not* Direction A "teach coaches from zero" — the tracking/feedback layer remains the core differentiator validated by the Bhiwani/Hisar/Jind district data (coaches already perceived as skilled; gap is tracking/feedback, not raw training), but it is explicitly **operational tooling layered on top of whatever qualification a coach already holds**, not an alternative curriculum competing with NCAB's 1,800-hour proposal. A lightweight complementary learning layer (session planning, feedback methodology, safeguarding awareness) remains appropriate precisely because it doesn't attempt to replace formal certification.
+
+### Coach Credentialing & Competency Gap — RESOLVED (research completed 10 Sept 2026)
+
+The open research question below has been answered — see `research/15_coach_credentialing_gap_india.md` for full findings. Summary: no unified national coach registry exists today (verification is fragmented — certificates, NSNIS alumni status, federation registries where they exist, with no single public portal); curriculum content beyond sport-specific technique (child development, LTAD, safeguarding, first aid) is inconsistently documented as mandatory across current pathways; NCAB remains 100% proposed, not operational. This confirms Rit's coach-verification wedge addresses a real, confirmed gap — not a hypothetical one.
+
+<details>
+<summary>Original open research question (now resolved, retained for audit trail)</summary>
+
+Before finalizing exact curriculum parameters (hours, session counts, renewal periods), the following research question is prioritized: **How are grassroots youth coaches in India currently trained, assessed, certified, verified, and monitored, and where are the specific gaps** — broken into: existing certification pathways; actual curriculum content; practical assessment methods; safeguarding requirements; background verification; first-aid requirements; CPD; credential validity/renewal; coach registry existence; disciplinary mechanisms; sport-specific requirements; state-wise differences; government vs. private certification; and what parents/schools can actually verify today. This sequencing note is logged honestly: the Haryana institution/pilot-partner scan (MNSS Rai, Bhiwani Boxing Club, etc.) was completed *before* this research question was defined — that scan remains useful, but should be refined (not restarted) once this research closes the gap.
+
+</details>
 
 ### Age-Band Delivery Methodology — decided (30 Aug 2026)
 
 Sourced from World Athletics (Kids' Athletics), BWF Level 1, grassroots boxing federations (e.g. Boxing Scotland), and Swim England's Learn to Swim Framework, cross-checked for a consistent teaching logic. Full skill-by-skill drill tables are a separate training-content deliverable; this section records the adopted teaching principles.
+
 
 **Tier 1 (ages 6–9, FUNdamentals) — teaching method:**
 - One movement cue at a time, delivered with a short child-friendly phrase (e.g. "land like a ninja") rather than technical explanation.
@@ -721,7 +785,7 @@ Sourced from World Athletics (Kids' Athletics), BWF Level 1, grassroots boxing f
 
 **Primary focus: Tier-2 / Tier-2.5 cities**, not Tier-1. Rationale: Tier-1 metros (Bengaluru, Mumbai, Delhi, Pune) already have multiple competing hybrid-academy players (Game Theory, Machaxi, Sportit, Peak Athlete) targeting the same affluent parent base; Tier-2/2.5 is both less contested and closer to Rit's original grassroots-access mission. Tier-1 remains a secondary/parallel target, not excluded.
 
-**Candidate: the Haryana belt (Bhiwani, Sonepat, Panipat, Karnal, Hisar).** Chosen over Patiala (Punjab, strong NSNIS coach-education ecosystem) and Nagpur/Nashik (Maharashtra, strongest KIYG-performing state) because it directly covers three of Rit's four launch sports with existing institutional roots — Bhiwani is a nationally known boxing hub ("Mini Cuba," produced Vijender Singh), Sonepat hosts the SAI Northern Regional Centre, and the belt has strong existing athletics/wrestling tradition — and sits inside the state whose nursery + scholarship + residential-academy model was already identified as the strongest real-world "continuity" case study (Problem Statement 5). Swimming is the weaker link in this geography, which is mitigated by the pond/lake SOP approach already defined above.
+**Candidate: the Haryana belt (Bhiwani, Sonepat, Panipat, Karnal, Hisar).** Chosen over Patiala (Punjab, strong NSNIS coach-education ecosystem) and Nagpur/Nashik (Maharashtra, strongest KIYG-performing state) because it directly covers three of Rit's four launch sports with existing institutional roots — Bhiwani is a nationally known boxing hub ("Mini Cuba," produced Vijender Singh), Sonepat hosts the SAI Northern Regional Centre, and the belt has strong existing athletics/wrestling tradition — and sits inside the state whose nursery + scholarship + residential-academy model was already identified as the strongest real-world "continuity" case study (Problem Statement 5). **Swimming is confirmed as the weaker link in this geography (correction, 10 Sept 2026)** — feasibility research found only Sonepat has a verified pool facility in the entire belt; swimming should launch specifically through the Sonepat/SAI relationship, not district-agnostically alongside the other three sports.
 
 **Known trade-off:** Tier-2/2.5 will likely have a thinner existing pool of already-credentialed coaches to onboard directly, compared to a metro — meaning coach acquisition and the coach-training module carry more early weight here than they would in a Tier-1 launch, since Rit may need to help create qualified coaches, not just onboard existing ones.
 
@@ -831,85 +895,111 @@ If the answer is no, we should not use AI.
 
 ---
 
-# 20. Product Scope
-
-Once the product direction is selected, define:
+# 20. Product Scope — filled (30 Aug 2026)
 
 ### Vision
 
-What the product ultimately aims to achieve.
+To be the coaching-quality and talent-continuity infrastructure that strengthens India's grassroots-to-professional sports pipeline — complementary to (not competing with) government systems (NCAB, KIRTI) — starting with four sports and one region, proving the model before broader expansion.
 
 ### Primary User
 
-Who the MVP is designed for.
+**Coaches and institutions (schools/academies) in Tier-2/2.5 India**, starting with the Haryana belt. Parents and athletes are platform users (via the Athlete and Parent/Administrator access tiers) but are not the primary payer — this is a B2B model.
 
 ### Core Problem
 
-The specific problem being solved.
+Grassroots coaches are widely perceived as skilled, but lack systematic tools to track training progress and give structured technique/performance feedback (Problem Statement 1, sharpened by district-level Haryana evidence: 90%+ perceive coaches as skilled, but only 33–58% report consistent tracking/feedback). This absence of a standardized, longitudinal talent-ID and coaching-quality layer contributes to the broader leaky-pipeline problem (Hypothesis F).
 
 ### Value Proposition
 
-Why users should use the product.
+For coaches: a standardized, credentialed training pathway (NCAB-aligned) plus a simple tool to track each child's development over time and generate structured feedback — without needing hardware, lab equipment, or data-science expertise. For institutions: a way to demonstrate coaching quality and talent-development rigor to parents. For the broader system: a continuous, everyday layer that operates in the gaps government programs don't cover — before KIRTI's assessment age (6–9) and between its periodic assessment cycles.
 
 ### Differentiation
 
-Why existing alternatives are insufficient.
+No platform in the 14-competitor scan has independently verified methodology; most "AI-powered" claims are unvalidated marketing. Rit's differentiation is **credible, standardized methodology** (PERF-FIT/KTK3+/OSF batteries, LTAD-based progression, safeguarding-first coach credentialing) positioned as complementary to — not competing with — incoming government infrastructure (NCAB, KIRTI), which no competitor has positioned itself around.
 
 ### Core User Journey
 
-What the user does from onboarding to receiving value.
+Coach completes credentialing module (safeguarding + core curriculum + supervised practice) → coach is verified/registered → coach runs standardized Tier 1/2/3 assessments on athletes using the coach app (manual entry, no hardware) → app generates longitudinal profile, trend, and peer-percentile view per athlete → coach uses this to give structured feedback and plan sessions → parent/administrator views progress via their access tier.
 
 ---
 
-# 21. Feature Prioritization
-
-Features will be divided into:
+# 21. Feature Prioritization — filled (30 Aug 2026)
 
 ### MVP — Must Have
 
-Required to test the core hypothesis.
+- Coach credentialing module: safeguarding (mandatory prerequisite), core curriculum (India-adapted, ~20–40 hours, blended format), competency-based assessment (pass/not-yet-competent), verifiable coach registry
+- Talent-ID / assessment module: Tier 1 (PERF-FIT/KTK3+ generic battery, ages 6–9) and Tier 2 (repeated generic battery + sport-taster exposure, ages 9–12), software-only manual entry
+- Coach-facing app: score/time entry, longitudinal trend view, peer-percentile view — no hardware/wearables
+- Three role-based access tiers: Athlete, Coach, Parent/Administrator
+- Coverage: Athletics, Badminton, Boxing, Swimming (Swimming is partner/facility-dependent, anchored at Sonepat/SAI per the 10 Sept 2026 feasibility correction — see `research/13_swimming_feasibility_haryana.md`; open-water delivery is not used)
+- Geography: pilot in the Haryana belt (Bhiwani, Sonepat, Panipat, Karnal, Hisar), Tier-2/2.5 focus
 
 ### V1 — Should Have
 
-Important improvements after initial validation.
+- Tier 3 (ages 12–16) sport-specific specialization batteries (OSF-athletics, badminton agility, boxing generic-proxy, swimming anthropometry/dryland) and Train-to-Train delivery methodology (60:40 training:competition ratio, maturation-informed progression via height tracking, simple training diary)
+- Continuity/progression tracker (Problem Statement 5) — following a child across the full pipeline, layered on Phase 1 assessment data
+- Formal NCAB-alignment integration once NCAB's national rollout clarifies
 
 ### V2 — Could Have
 
-Future expansion.
+- Parent-coach-school coordination layer (Problem Statement 10) — deferred as the most crowded/least differentiated of the three bridging mechanisms per the competitor scan
+- AI-assisted video/biomechanics onboarding — deliberately deferred until the coach and talent-ID modules are validated and credible, to avoid repeating the unverified "AI-powered" claims already common among competitors
+- Formal data-sharing pathway into KIRTI's NSRS/NSTS ecosystem (long-term aspiration, not a near-term commitment)
 
 ### Not Now
 
-Interesting but unnecessary features.
-
-Every feature should answer:
-
-> **What user problem does this solve?**
-
-If there is no strong answer, it should probably not be included.
+- Hardware/wearables of any kind (explicit constraint at this stage)
+- Parent-paid B2C subscription tiers (superseded by the B2B pivot)
+- Additional sports beyond the four-sport shortlist
+- Formal pricing/monetization structure (deliberately deferred — product-first priority)
 
 ---
 
-# 22. MVP Philosophy
+# 22. MVP Philosophy — filled (30 Aug 2026)
 
-The MVP is not intended to be a miniature version of a giant platform.
-
-It should be:
-
-> **The smallest product capable of testing the core product hypothesis.**
-
-For example:
+Applying the "smallest testable thing" principle to Rit's actual decisions:
 
 ```text
-One user
-    ↓
-One core problem
-    ↓
-One primary workflow
-    ↓
-One clear outcome
+One user           →  Coaches in the Haryana belt (Tier-2/2.5)
+One core problem    →  Coaches are skilled but lack tracking/feedback tools (Problem Statement 1, sharpened)
+One primary workflow →  Coach credentialing → standardized Tier 1/2 assessment → longitudinal tracking → feedback
+One clear outcome   →  A coach can demonstrate, with data, that a specific child's development is being tracked and fed back on over time — something the district-level Haryana evidence shows is currently missing even where coaching skill itself is well-regarded
 ```
 
-The MVP should be functional enough to put into the hands of real users.
+The MVP deliberately excludes Tier 3 specialization content, the continuity tracker, the coordination layer, and AI-assisted onboarding — each is a real, evidence-backed feature, but adding all of them simultaneously would violate the "smallest testable thing" principle this section exists to protect.
+
+---
+
+# 22.1 Three-Phase Product Architecture (merged from Rit_Post_KIRTI_Product_Direction.md, 30 Aug 2026)
+
+This is the overarching architecture Rit's MVP (Sections 20–22) sits inside — Phase 1 below **is** the MVP already defined; Phases 2–3 are the validated future direction, not yet built.
+
+**Development philosophy:** Build the athlete → Orient the athlete → Specialize the athlete → Progress the athlete. The objective is to develop potential first, then identify/orient it more reliably as the child develops — not to select "talented" children as early as possible.
+
+**Relationship to KIRTI, restated architecturally:** KIRTI answers "where is this child now?" (periodic assessment). Rit answers "what should we do to develop this child next?" (continuous development). Rit should be compatible with KIRTI-style assessment data (manually entered initially) rather than dependent on a direct KIRTI API/integration.
+
+### Phase 1 — IDENTIFY (status: LOCKED — this is the MVP defined in Sections 20–22)
+Coach credentialing/verification + Talent-ID/assessment (Tiers 1–2) + role-based platform foundation, as detailed above.
+
+### Phase 2 — DEVELOP (status: working direction, not yet built)
+Converts assessment into actual development. Core components:
+- **Fundamental Athletic Development Engine** — a structured framework across motor development (locomotor, object-control, balance, coordination, agility, reaction, rhythm, spatial awareness, mobility, basic strength/power), cognitive-motor development (attention, decision-making, pattern recognition), and healthy-athlete foundations (activity habits, recovery, hydration, nutrition, injury prevention). **Scientifically defensible terminology only** — explicitly avoiding unsupported claims like "activating nerves" or "activating motor neurons."
+- **Personalized Development Programme** — assessment → development profile → strengths/gaps → coach-selected goals → recommended activities → coach approval/adaptation → programme → completion tracking → progression.
+- **Activity Library** — structured, leveled (e.g., balance Level 1 two-foot → Level 5 balance in game conditions), each activity carrying its development domain, age range, coaching cues, safety notes, equipment, and evidence/source — a genuine progression system, not a static exercise catalogue.
+- **Coach Learning System ("A2Z-style")** — a structured learning roadmap (child development → fundamental movement → coordination → balance → agility/reaction → cognitive-motor → safeguarding → talent-ID → session planning → sport-specific modules), not a static course repository. Competency progression: Not Started → Learning → Understood → Practical Completed → Observed → Competent.
+- **Content Source Strategy** — authoritative sources (government/SAI/Khelo India/federations/academic) ranked above Rit-created interpretive material, ranked above curated external video (official bodies → recognized institutions → qualified individual coaches after review → **explicitly excluding random influencer content** from core curriculum). External content stays clearly attributed; embedded/linked, not copied and rehosted.
+- **AI Video-Assisted Assessment** — intentionally sequenced *after* the coach/assessment layer is credible (per earlier discussion in this plan). Framed explicitly as **"video-assisted movement assessment," never "autonomous AI talent identification."** Async architecture (upload → object storage → job queue → CV analysis → report → coach review), narrow reviewable AI outputs only (task completion, rep counting, movement phases, execution consistency) — the coach remains responsible for final interpretation, not the algorithm.
+
+### Phase 3 — PROGRESS (status: working direction, not yet built)
+- **Longitudinal Progression & Reassessment** — the closed loop: Assessment → Development Plan → Training → Attendance → Coach Feedback → Progress → Reassessment → Comparison → New Development Plan. Principle: **measure trajectory, not a one-day snapshot.**
+- **Athlete Ecosystem & Pathway** — structured parent/coach/institution coordination (progress visibility, attendance, credential verification, institutional dashboards — explicitly *not* a generic WhatsApp-replacement) and a surfaced (not authoritative) sports pathway: continue development → local academy → competition → district → state → national → elite. **Rit recommends opportunities; it does not become the talent-selection authority** — consistent with the NCAB/KIRTI-complementary positioning already decided.
+
+### Technical principle carried through all three phases
+The system is designed around the **athlete's longitudinal development record**, not isolated features. Core entity chain: Athlete → Assessment → Capability Profile → Development Goal → Activity/Programme → Training Record → Coach Observation → Reassessment → Progression → Opportunity/Pathway. Phase 1's data model should anticipate this full chain (Assessments[], CoachObservations[], DevelopmentPlans[], TrainingSessions[], VideoEvaluations[], Competitions[], Opportunities[], ProgressHistory[] as future-ready fields on the Athlete entity) without implementing all of it now. Every assessment result retains battery ID/version and normative-dataset version so longitudinal comparisons remain valid even as methodology evolves over time; assessments follow a DRAFT → SUBMITTED → REVIEWED → FINALIZED lifecycle rather than becoming official on submission alone.
+
+**Explicitly not being built yet (any phase):** wearables, hardware-heavy assessment, autonomous AI talent selection, AI-only coaching, generic social-media or marketplace features, payments/billing, generic fitness-influencer content, unvalidated pseudo-scientific claims, or government-API dependency.
+
+**Strategic end-state hypothesis (to validate through evidence and real-world use, not to assert):** every child → better foundations → better development → better assessment readiness → better sport orientation → more children progressing → a larger potential talent pool feeding into KIRTI/SAI/federations. Rit's role is the development layer between participation, assessment, coaching, and progression — not a replacement for any of the institutions surrounding it.
 
 ---
 
